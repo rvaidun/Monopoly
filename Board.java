@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//TEST
+
 
 public class Board {
     private static final char[][] board = new char[33][77];
